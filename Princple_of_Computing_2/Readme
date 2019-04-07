@@ -1,1 +1,13 @@
 
+MINI PROJECT 1: ZOMBIE APLOCALYPSE
+In this mini-project,I created a simulation of zombies and humans interacting on a grid. As in the movies, our zombies are hungry for human brains. As a result, zombies chase humans and humans flee from zombies.
+The positions of the zombies and humans will be restricted to a grid. In this simulation, zombies are not very agile and can only move up, down, left or right in one step of the simulation. On the other hand, humans are more agile and can move in these four directions as well as the four neighboring diagonal directions. If a zombie catches a human by positioning itself in the same cell, zommbie will eat humans . 
+
+
+MINI PROJECT 2: TIC TAC TOE BY MINI MAX ALGORITHM:
+In this assignment, I have implemented a machine player for Tic-Tac-Toe that uses a Minimax strategy to decide its next move. 
+
+MINI PROJECT 3: THE FIFTEEN PUZZLE
+In this assignment, I have implemented a machine player that will solve the given puzzle.
+
+CERTIFICATE LINK: https://www.coursera.org/account/accomplishments/verify/3UPEXU73ES9R
